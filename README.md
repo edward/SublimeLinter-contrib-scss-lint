@@ -15,11 +15,10 @@ Before using this plugin, you must ensure that `scss-lint` is installed on your 
 
 1. Install `scss-lint` by typing the following in a terminal:
    ```
-   <package manager> install scss-lint
+   gem install scss_lint
    ```
 
-
-**Note:** This plugin requires `scss-lint` __version__ or later.
+**Note:** This plugin requires `scss_lint` 0.42.2 or later. Also note that the gem is called `scss_lint`, and not `scss-lint`.
 
 ### Linter configuration
 In order for `scss-lint` to be executed by SublimeLinter, you must ensure that its path is available to SublimeLinter. Before going any further, please read and follow the steps in [“Finding a linter executable”](http://sublimelinter.readthedocs.org/en/latest/troubleshooting.html#finding-a-linter-executable) through “Validating your PATH” in the documentation.

@@ -7,4 +7,4 @@ This linter plugin for SublimeLinter provides an interface to scss-lint.
 Before this plugin will activate, you *must*
 follow the installation instructions here:
 
-https://github.com/Edward Ocampo-Gooding/SublimeLinter-contrib-scss-lint
+https://github.com/edward/SublimeLinter-contrib-scss-lint
